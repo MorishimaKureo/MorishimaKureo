@@ -6,7 +6,7 @@ I am a passionate developer with a keen interest in web development, and open-so
 
 Here are some of the technologies and tools Im still learning:
 
-- **Languages:** Nodejs
+- **Languages:** Nodejs, C++, C#, Python
 - **Frameworks/Libraries:** EJS, Node.js, Express
 
 ## 📈 GitHub Stats
