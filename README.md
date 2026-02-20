@@ -11,7 +11,10 @@ Here are some of the technologies and tools Im still learning:
 
 ## 📈 GitHub Stats
 
-![MorishimaKureo's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/morishimakureo?cardType=github&theme=tokyonight&fontFamily=Akatab&preferLogin=false)
+![morishimakureo's GitHub stats](https://github-stats-card-generator.vercel.app/api/svg?username=morishimakureo&theme=tokyonight&chart=bars)
+![morishimakureo's Language stats](https://github-stats-card-generator.vercel.app/api/svg?username=morishimakureo&type=languages&theme=tokyonight&chart=bars)
+![morishimakureo's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=morishimakureo&type=contributions&theme=tokyonight)
+![morishimakureo's Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=morishimakureo&type=top-repos&theme=tokyonight)
 
 ## ⚡ Fun Fact
 
