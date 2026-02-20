@@ -11,7 +11,7 @@ Here are some of the technologies and tools Im still learning:
 
 ## 📈 GitHub Stats
 
-![MorishimaKureo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MorishimaKureo&show_icons=true&theme=radical)
+![MorishimaKureo's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/morishimakureo?cardType=github&theme=tokyonight&fontFamily=Akatab&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## ⚡ Fun Fact
 
