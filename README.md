@@ -19,5 +19,6 @@ Here are some of the technologies and tools Im still learning:
 ## ⚡ Fun Fact
 
 I am an introvert so i rarely shows up on many events, and plus im a music producer. 📚
+Got my self a beautiful girl : <a href="https://github.com/ji-azen">Novel</a>
 
 Thank you for visiting my profile! Have a great day! 😊
